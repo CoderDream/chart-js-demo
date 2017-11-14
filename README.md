@@ -21,3 +21,7 @@ eclipse+jetty
 [http://localhost:8088/chart-js-demo/samples/index.html](http://localhost:8088/chart-js-demo/samples/index.html)
 
 ![](https://github.com/CoderDream/chart-js-demo/blob/master/snapshot/03.samples.png)
+
+
+![](https://github.com/CoderDream/chart-js-demo/blob/master/snapshot/04.basic_line.png)
+
