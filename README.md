@@ -1,11 +1,28 @@
-# chart-js-demo
+##  chart-js-demo ##
 chart.js,JavaEE
 
-运行环境
-eclipse+jetty
+## 运行环境 ##
+eclipse版本
+
+	Eclipse Java EE IDE for Web Developers.
+	
+	Version: Oxygen.1a Release (4.7.1a)
+	Build id: 20171005-1200
+
+![](https://github.com/CoderDream/chart-js-demo/blob/master/snapshot/05.eclipse.version.png)
+
+jetty版本在pom.xml文件配置
+
+## 导入项目 ##
+
+【Java】->【Import】->【General】->【Existing Projects into Workspace】
+
+![](https://github.com/CoderDream/chart-js-demo/blob/master/snapshot/00.import.png)
 
 
 ## 运行方式 ##
+
+打开pom.xml文件，点击右键，选择【Run As】-【Maven build】
 
 ![](https://github.com/CoderDream/chart-js-demo/blob/master/snapshot/01.run.png)
 
