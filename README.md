@@ -22,7 +22,7 @@ jetty版本在pom.xml文件配置
 
 ## 运行方式 ##
 
-打开pom.xml文件，点击右键，选择【Run As】-【Maven build】
+打开pom.xml文件，点击右键，选择【Run As】-【Maven build】，【Goals】中输入：jetty:run
 
 ![](https://github.com/CoderDream/chart-js-demo/blob/master/snapshot/01.run.png)
 
